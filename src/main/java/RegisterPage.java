@@ -45,7 +45,6 @@ public class RegisterPage {
 
     }
 
-
     @FindBy(id = "usertype") public WebElement userType;
     @FindBy(id = "first") public WebElement firstNameInp;
     @FindBy(id = "last") public WebElement lastNameInp;
@@ -58,14 +57,6 @@ public class RegisterPage {
     @FindBy(id = "language") public WebElement languageSel;
     @FindBy(id = "prov") public WebElement provinceSel;
     @FindBy(id = "btn_submit") public WebElement btn_submit;
-
-
- /*   By errorM1 = By.xpath("//body//*[contains(text(),'Invalid')]");
-    By errorM2 = By.xpath("//body//*[contains(text(),'mandatory')]");
-    By errorM3 = By.xpath("//body//*[contains(text(),'error')]");*/
-
-
-
 
 
     public String extractData(String dataWay, String iD, String columnName ) throws FilloException {

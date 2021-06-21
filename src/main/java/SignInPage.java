@@ -29,19 +29,14 @@ public class SignInPage {
 
 
 
-
-
-
     public void checkUrl(WebElement element, String expectedURL) {
 
 
         try {
             driver.get(signInPageURL);
-            Thread.sleep(2000);
-            //WebElement webElement = driver.findElement(By);
+            Thread.sleep(500);
             element.click();
-            Thread.sleep(1000);
-            //SoftAssert softassert = new SoftAssert();
+            Thread.sleep(500);
             String originalURL  = driver.getCurrentUrl();
             if (expectedURL.equals(originalURL) ) System.out.println("expectedURL: "+expectedURL+" Is Ok");
             assertEquals(expectedURL, originalURL);
@@ -54,10 +49,6 @@ public class SignInPage {
 
 
     }
-
-
-
-
 
         }
 

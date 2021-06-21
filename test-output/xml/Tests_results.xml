@@ -4,39 +4,39 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="136,153">
+           time="125,989">
     <properties></properties>
 
 
 
             <testcase
-                name="task_1"
-                time="21,766"
-                classname="Tests">
-            </testcase>
-            <testcase
-                name="task_3"
-                time="9,939"
-                classname="Tests">
-            </testcase>
-            <testcase
-                name="task_3"
-                time="9,931"
-                classname="Tests">
-            </testcase>
-            <testcase
                 name="task_2"
-                time="74,193"
+                time="74,113"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="task_1"
+                time="11,352"
                 classname="Tests">
             </testcase>
             <testcase
                 name="task_3"
-                time="10,727"
+                time="10,544"
                 classname="Tests">
             </testcase>
             <testcase
                 name="task_3"
-                time="9,597"
+                time="9,906"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="task_3"
+                time="10,172"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="task_3"
+                time="9,902"
                 classname="Tests">
             </testcase>
 </testsuite>

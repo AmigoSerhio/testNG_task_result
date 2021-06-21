@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="All Tests"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="171,425">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test1"
+                time="13,206"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="test1"
+                time="10,994"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="test1"
+                time="11,179"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="task_2"
+                time="74,995"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="test1"
+                time="11,317"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="task_3"
+                time="24,672"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="task_1"
+                time="25,062"
+                classname="Tests">
+            </testcase>
+</testsuite>

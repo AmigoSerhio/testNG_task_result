@@ -1,47 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="All Tests"
-           tests="7"
+<testsuite name="testNG_task_result"
+           tests="6"
            failures="0"
            errors="0"
            skipped="0"
-           time="171,425">
+           time="141,895">
     <properties></properties>
 
 
 
             <testcase
-                name="test1"
-                time="13,206"
-                classname="Tests">
-            </testcase>
-            <testcase
-                name="test1"
-                time="10,994"
-                classname="Tests">
-            </testcase>
-            <testcase
-                name="test1"
-                time="11,179"
-                classname="Tests">
-            </testcase>
-            <testcase
                 name="task_2"
-                time="74,995"
+                time="75,974"
                 classname="Tests">
             </testcase>
             <testcase
-                name="test1"
-                time="11,317"
+                name="task_3_1"
+                time="10,502"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="task_3_1"
+                time="10,885"
                 classname="Tests">
             </testcase>
             <testcase
                 name="task_3"
-                time="24,672"
+                time="23,655"
                 classname="Tests">
             </testcase>
             <testcase
-                name="task_1"
-                time="25,062"
+                name="task_3_1"
+                time="10,168"
+                classname="Tests">
+            </testcase>
+            <testcase
+                name="task_3_1"
+                time="10,711"
                 classname="Tests">
             </testcase>
 </testsuite>
